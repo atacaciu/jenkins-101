@@ -1,2 +1,2 @@
 
-print("Hello Lume MI-a reusit")
+print("Hello World")
